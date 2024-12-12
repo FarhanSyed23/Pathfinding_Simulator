@@ -1,0 +1,624 @@
+Agent 1 Start set at (2, 3)
+Collision avoidance is enabled for the A* algorithm.
+Agent 1 End set at (12, 11)
+Collision avoidance is enabled for the A* algorithm.
+Agent 2 Start set at (12, 3)
+Collision avoidance is enabled for the A* algorithm.
+Agent 2 End set at (2, 11)
+Collision avoidance is enabled for the A* algorithm.
+Simulation started.
+Added Regular Obstacle at (12, 2)
+Added Regular Obstacle at (13, 3)
+Added Weighted Obstacle at (0, 9)
+Agent 1: Path found. Path Length: 19 | Visited Nodes: 182 | Runtime: 16416.30 μs
+Agent 2: Path found. Path Length: 23 | Visited Nodes: 142 | Runtime: 10933.10 μs
+Added Weighted Obstacle at (6, 12)
+Added Weighted Obstacle at (12, 5)
+Agent 1: Path found. Path Length: 19 | Visited Nodes: 172 | Runtime: 14631.50 μs
+Agent 2: Path found. Path Length: 23 | Visited Nodes: 145 | Runtime: 10977.40 μs
+Added Weighted Obstacle at (7, 12)
+Agent 1: Path found. Path Length: 19 | Visited Nodes: 157 | Runtime: 16357.50 μs
+Agent 2: Path found. Path Length: 23 | Visited Nodes: 146 | Runtime: 11986.60 μs
+Added Regular Obstacle at (0, 5)
+Agent 1: Path found. Path Length: 19 | Visited Nodes: 172 | Runtime: 18839.50 μs
+Agent 2: Path found. Path Length: 23 | Visited Nodes: 151 | Runtime: 15309.50 μs
+Added Regular Obstacle at (6, 10)
+Agent 1: Path found. Path Length: 19 | Visited Nodes: 171 | Runtime: 26513.10 μs
+Agent 2: Path found. Path Length: 23 | Visited Nodes: 151 | Runtime: 11247.10 μs
+Added Regular Obstacle at (0, 13)
+Added Weighted Obstacle at (0, 6)
+Agent 1: Path found. Path Length: 19 | Visited Nodes: 175 | Runtime: 16138.10 μs
+Agent 2: Path found. Path Length: 23 | Visited Nodes: 163 | Runtime: 15578.70 μs
+Added Weighted Obstacle at (12, 12)
+Added Regular Obstacle at (14, 14)
+Added Regular Obstacle at (5, 2)
+Agent 1: Path found. Path Length: 19 | Visited Nodes: 172 | Runtime: 20229.00 μs
+Agent 2: Path found. Path Length: 25 | Visited Nodes: 159 | Runtime: 11514.20 μs
+Added Regular Obstacle at (2, 14)
+Added Regular Obstacle at (7, 10)
+Agent 1: Path found. Path Length: 19 | Visited Nodes: 164 | Runtime: 21719.90 μs
+Agent 2: Path found. Path Length: 19 | Visited Nodes: 177 | Runtime: 20398.60 μs
+Added Weighted Obstacle at (8, 2)
+Added Regular Obstacle at (2, 4)
+Agent 1: Path found. Path Length: 19 | Visited Nodes: 165 | Runtime: 21217.60 μs
+Agent 2: Path found. Path Length: 19 | Visited Nodes: 174 | Runtime: 16403.20 μs
+Added Weighted Obstacle at (3, 6)
+Added Weighted Obstacle at (9, 13)
+Added Weighted Obstacle at (1, 14)
+Agent 1: Path found. Path Length: 19 | Visited Nodes: 173 | Runtime: 23279.70 μs
+Agent 2: Path found. Path Length: 19 | Visited Nodes: 164 | Runtime: 12298.90 μs
+Added Regular Obstacle at (13, 8)
+Agent 1: Path found. Path Length: 19 | Visited Nodes: 174 | Runtime: 17359.20 μs
+Agent 2: Path found. Path Length: 19 | Visited Nodes: 162 | Runtime: 12777.00 μs
+Added Weighted Obstacle at (8, 5)
+Agent 1: Path found. Path Length: 19 | Visited Nodes: 174 | Runtime: 17011.80 μs
+Agent 2: Path found. Path Length: 19 | Visited Nodes: 170 | Runtime: 13681.60 μs
+Added Regular Obstacle at (1, 2)
+Added Regular Obstacle at (1, 8)
+Agent 1: Path found. Path Length: 19 | Visited Nodes: 162 | Runtime: 23516.50 μs
+Agent 2: Path found. Path Length: 19 | Visited Nodes: 159 | Runtime: 15421.20 μs
+Added Regular Obstacle at (12, 6)
+Agent 1: Path found. Path Length: 19 | Visited Nodes: 162 | Runtime: 28695.10 μs
+Agent 2: Path found. Path Length: 19 | Visited Nodes: 147 | Runtime: 14025.00 μs
+Added Weighted Obstacle at (14, 5)
+Added Regular Obstacle at (11, 11)
+Added Weighted Obstacle at (14, 3)
+Agent 1: Path found. Path Length: 19 | Visited Nodes: 150 | Runtime: 14268.80 μs
+Agent 2: Path found. Path Length: 27 | Visited Nodes: 147 | Runtime: 11772.50 μs
+Added Weighted Obstacle at (5, 9)
+Added Regular Obstacle at (10, 10)
+Agent 1: Path found. Path Length: 19 | Visited Nodes: 148 | Runtime: 25515.30 μs
+Agent 2: Path found. Path Length: 27 | Visited Nodes: 140 | Runtime: 11867.80 μs
+Collision avoidance is enabled for the Greedy Best-First algorithm.
+Added Weighted Obstacle at (7, 0)
+Added Regular Obstacle at (14, 8)
+Agent 1: Path found. Path Length: 19 | Visited Nodes: 20 | Runtime: 3098.50 μs
+Agent 2: Path found. Path Length: 27 | Visited Nodes: 35 | Runtime: 3520.10 μs
+Added Weighted Obstacle at (2, 6)
+Added Regular Obstacle at (0, 0)
+Agent 1: Path found. Path Length: 19 | Visited Nodes: 19 | Runtime: 4290.80 μs
+Agent 2: Path found. Path Length: 31 | Visited Nodes: 40 | Runtime: 5923.30 μs
+Added Weighted Obstacle at (12, 8)
+Added Weighted Obstacle at (3, 10)
+Agent 1: Path found. Path Length: 21 | Visited Nodes: 23 | Runtime: 3427.60 μs
+Agent 2: Path found. Path Length: 33 | Visited Nodes: 63 | Runtime: 4472.60 μs
+Added Regular Obstacle at (7, 9)
+Added Regular Obstacle at (4, 3)
+Added Weighted Obstacle at (6, 5)
+Agent 1: Path found. Path Length: 19 | Visited Nodes: 19 | Runtime: 3186.20 μs
+Agent 2: Path found. Path Length: 31 | Visited Nodes: 59 | Runtime: 9720.60 μs
+Added Weighted Obstacle at (7, 8)
+Added Regular Obstacle at (6, 13)
+Agent 1: Path found. Path Length: 19 | Visited Nodes: 19 | Runtime: 3781.50 μs
+Agent 2: Path found. Path Length: 33 | Visited Nodes: 68 | Runtime: 9186.90 μs
+Added Regular Obstacle at (1, 7)
+Agent 1: Path found. Path Length: 19 | Visited Nodes: 34 | Runtime: 3461.80 μs
+Agent 2: Path found. Path Length: 35 | Visited Nodes: 47 | Runtime: 3607.50 μs
+Added Regular Obstacle at (5, 11)
+Agent 1: Path found. Path Length: 19 | Visited Nodes: 44 | Runtime: 5554.90 μs
+Agent 2: Path found. Path Length: 37 | Visited Nodes: 53 | Runtime: 3522.20 μs
+Added Regular Obstacle at (4, 4)
+Agent 1: Path found. Path Length: 19 | Visited Nodes: 36 | Runtime: 6585.20 μs
+Agent 2: Path found. Path Length: 23 | Visited Nodes: 26 | Runtime: 2796.40 μs
+Added Regular Obstacle at (10, 0)
+Agent 1: Path found. Path Length: 19 | Visited Nodes: 30 | Runtime: 5850.30 μs
+Agent 2: Path found. Path Length: 23 | Visited Nodes: 29 | Runtime: 5713.20 μs
+Added Weighted Obstacle at (0, 11)
+Added Weighted Obstacle at (6, 14)
+Added Regular Obstacle at (10, 3)
+Removed Weighted Obstacle at (0, 11)
+Removed Weighted Obstacle at (3, 6)
+Agent 1: Path found. Path Length: 19 | Visited Nodes: 43 | Runtime: 3549.00 μs
+Agent 2: Path found. Path Length: 21 | Visited Nodes: 32 | Runtime: 2535.80 μs
+Added Weighted Obstacle at (8, 11)
+Added Weighted Obstacle at (12, 10)
+Added Weighted Obstacle at (6, 4)
+Removed Weighted Obstacle at (12, 8)
+Agent 1: Path found. Path Length: 19 | Visited Nodes: 48 | Runtime: 5806.70 μs
+Agent 2: Path found. Path Length: 23 | Visited Nodes: 31 | Runtime: 2729.30 μs
+Collision avoidance is not supported with the Theta* algorithm.
+Added Regular Obstacle at (3, 1)
+Added Regular Obstacle at (6, 11)
+Removed Regular Obstacle at (10, 0)
+Removed Weighted Obstacle at (1, 14)
+Removed Weighted Obstacle at (6, 12)
+Agent 1: Path found. Path Length: 5 | Visited Nodes: 70 | Runtime: 5221.60 μs
+Agent 2: Path found. Path Length: 2 | Visited Nodes: 13 | Runtime: 1928.10 μs
+Removed Weighted Obstacle at (6, 14)
+Removed Regular Obstacle at (3, 1)
+Removed Regular Obstacle at (10, 10)
+Agent 1: Path found. Path Length: 6 | Visited Nodes: 73 | Runtime: 13484.40 μs
+Agent 2: Path found. Path Length: 2 | Visited Nodes: 17 | Runtime: 3716.20 μs
+Added Regular Obstacle at (7, 5)
+Added Regular Obstacle at (7, 3)
+Added Regular Obstacle at (10, 10)
+Removed Regular Obstacle at (7, 10)
+Agent 1: Path found. Path Length: 5 | Visited Nodes: 69 | Runtime: 9336.00 μs
+Agent 2: Path found. Path Length: 2 | Visited Nodes: 14 | Runtime: 2274.00 μs
+Added Weighted Obstacle at (14, 1)
+Removed Regular Obstacle at (14, 14)
+Removed Weighted Obstacle at (2, 6)
+Agent 1: Path found. Path Length: 5 | Visited Nodes: 66 | Runtime: 9644.40 μs
+Agent 2: Path found. Path Length: 2 | Visited Nodes: 21 | Runtime: 5048.90 μs
+Agent 1: Path found. Path Length: 5 | Visited Nodes: 61 | Runtime: 4064.60 μs
+Agent 2: Path found. Path Length: 2 | Visited Nodes: 24 | Runtime: 2323.20 μs
+Added Weighted Obstacle at (7, 10)
+Added Regular Obstacle at (1, 3)
+Added Regular Obstacle at (13, 12)
+Removed Regular Obstacle at (0, 5)
+Removed Regular Obstacle at (1, 3)
+Agent 1: Path found. Path Length: 5 | Visited Nodes: 74 | Runtime: 4762.20 μs
+Agent 2: Path found. Path Length: 2 | Visited Nodes: 23 | Runtime: 3200.80 μs
+Added Regular Obstacle at (0, 2)
+Removed Regular Obstacle at (13, 3)
+Removed Regular Obstacle at (13, 12)
+Removed Regular Obstacle at (6, 10)
+Agent 1: Path found. Path Length: 5 | Visited Nodes: 64 | Runtime: 58070.50 μs
+Agent 2: Path found. Path Length: 2 | Visited Nodes: 14 | Runtime: 1507.80 μs
+Added Weighted Obstacle at (8, 9)
+Added Regular Obstacle at (10, 13)
+Agent 1: Path found. Path Length: 5 | Visited Nodes: 51 | Runtime: 3707.50 μs
+Agent 2: Path found. Path Length: 2 | Visited Nodes: 16 | Runtime: 1732.10 μs
+Collision avoidance is enabled for the Beam Search algorithm.
+Agent 1: Path found. Path Length: 21 | Visited Nodes: 58 | Runtime: 4656.20 μs
+Agent 2: Path found. Path Length: 19 | Visited Nodes: 54 | Runtime: 4081.60 μs
+Added Regular Obstacle at (1, 12)
+Removed Weighted Obstacle at (14, 5)
+Removed Weighted Obstacle at (9, 13)
+Agent 1: Path found. Path Length: 21 | Visited Nodes: 60 | Runtime: 2342.50 μs
+Agent 2: Path found. Path Length: 19 | Visited Nodes: 55 | Runtime: 1862.60 μs
+Added Weighted Obstacle at (10, 8)
+Agent 1: Path found. Path Length: 21 | Visited Nodes: 60 | Runtime: 4791.50 μs
+Agent 2: Path found. Path Length: 19 | Visited Nodes: 55 | Runtime: 4207.80 μs
+Added Weighted Obstacle at (12, 14)
+Added Regular Obstacle at (6, 8)
+Added Weighted Obstacle at (0, 3)
+Removed Regular Obstacle at (4, 4)
+Removed Regular Obstacle at (1, 8)
+Removed Weighted Obstacle at (8, 11)
+Agent 1: Path found. Path Length: 19 | Visited Nodes: 52 | Runtime: 1675.50 μs
+Agent 2: Path found. Path Length: 19 | Visited Nodes: 52 | Runtime: 2238.70 μs
+Added Weighted Obstacle at (8, 10)
+Removed Regular Obstacle at (10, 10)
+Removed Weighted Obstacle at (0, 3)
+Removed Regular Obstacle at (11, 11)
+Agent 1: Path found. Path Length: 19 | Visited Nodes: 54 | Runtime: 2280.70 μs
+Agent 2: No path found. Visited Nodes: 32 | Runtime: 986.30 μs
+Added Regular Obstacle at (1, 9)
+Agent 1: Path found. Path Length: 19 | Visited Nodes: 55 | Runtime: 4197.50 μs
+Agent 2: No path found. Visited Nodes: 35 | Runtime: 1143.10 μs
+Added Weighted Obstacle at (9, 6)
+Added Weighted Obstacle at (4, 6)
+Removed Regular Obstacle at (0, 0)
+Removed Weighted Obstacle at (12, 10)
+Removed Regular Obstacle at (6, 13)
+Agent 1: Path found. Path Length: 19 | Visited Nodes: 54 | Runtime: 5027.30 μs
+Agent 2: No path found. Visited Nodes: 41 | Runtime: 2789.70 μs
+Added Regular Obstacle at (5, 6)
+Added Weighted Obstacle at (9, 11)
+Added Regular Obstacle at (0, 1)
+Removed Regular Obstacle at (4, 3)
+Removed Weighted Obstacle at (10, 8)
+Removed Weighted Obstacle at (4, 6)
+Agent 1: Path found. Path Length: 19 | Visited Nodes: 55 | Runtime: 4346.70 μs
+Agent 2: No path found. Visited Nodes: 39 | Runtime: 2161.10 μs
+Added Weighted Obstacle at (2, 6)
+Added Regular Obstacle at (8, 6)
+Agent 1: Path found. Path Length: 19 | Visited Nodes: 53 | Runtime: 3308.50 μs
+Agent 2: No path found. Visited Nodes: 42 | Runtime: 2067.90 μs
+Added Weighted Obstacle at (11, 4)
+Removed Regular Obstacle at (1, 7)
+Agent 1: Path found. Path Length: 19 | Visited Nodes: 50 | Runtime: 3776.00 μs
+Agent 2: No path found. Visited Nodes: 19 | Runtime: 1372.00 μs
+Added Weighted Obstacle at (11, 5)
+Removed Regular Obstacle at (12, 6)
+Removed Weighted Obstacle at (8, 5)
+Agent 1: Path found. Path Length: 19 | Visited Nodes: 51 | Runtime: 2538.00 μs
+Agent 2: No path found. Visited Nodes: 39 | Runtime: 1743.60 μs
+Added Regular Obstacle at (10, 4)
+Added Weighted Obstacle at (11, 0)
+Removed Weighted Obstacle at (7, 0)
+Agent 1: Path found. Path Length: 19 | Visited Nodes: 50 | Runtime: 1981.90 μs
+Agent 2: Path found. Path Length: 25 | Visited Nodes: 70 | Runtime: 2948.50 μs
+Agent 1: Path found. Path Length: 19 | Visited Nodes: 54 | Runtime: 2054.80 μs
+Agent 2: No path found. Visited Nodes: 40 | Runtime: 1412.50 μs
+Added Regular Obstacle at (4, 11)
+Removed Regular Obstacle at (1, 12)
+Removed Weighted Obstacle at (5, 9)
+Removed Weighted Obstacle at (11, 5)
+Agent 1: Path found. Path Length: 19 | Visited Nodes: 52 | Runtime: 4356.00 μs
+Agent 2: No path found. Visited Nodes: 50 | Runtime: 2350.30 μs
+Collision avoidance is not supported with the Jump Point Search algorithm.
+Agent 1: Path found. Path Length: 19 | Visited Nodes: 51 | Runtime: 3784.20 μs
+Agent 2: No path found. Visited Nodes: 41 | Runtime: 2338.70 μs
+Added Regular Obstacle at (10, 9)
+Added Regular Obstacle at (9, 3)
+Agent 1: Path found. Path Length: 10 | Visited Nodes: 174 | Runtime: 8129.80 μs
+Agent 2: Path found. Path Length: 10 | Visited Nodes: 144 | Runtime: 7313.60 μs
+Added Regular Obstacle at (9, 14)
+Removed Regular Obstacle at (14, 8)
+Removed Regular Obstacle at (0, 1)
+Removed Weighted Obstacle at (0, 9)
+Agent 1: Path found. Path Length: 11 | Visited Nodes: 183 | Runtime: 8806.10 μs
+Agent 2: Path found. Path Length: 11 | Visited Nodes: 131 | Runtime: 6342.30 μs
+Added Regular Obstacle at (7, 4)
+Added Regular Obstacle at (11, 14)
+Agent 1: Path found. Path Length: 10 | Visited Nodes: 173 | Runtime: 8153.30 μs
+Agent 2: Path found. Path Length: 11 | Visited Nodes: 127 | Runtime: 6299.70 μs
+Added Weighted Obstacle at (3, 1)
+Removed Regular Obstacle at (7, 3)
+Removed Weighted Obstacle at (6, 4)
+Agent 1: Path found. Path Length: 13 | Visited Nodes: 201 | Runtime: 9711.50 μs
+Agent 2: Path found. Path Length: 11 | Visited Nodes: 107 | Runtime: 6312.00 μs
+Added Regular Obstacle at (10, 10)
+Added Regular Obstacle at (6, 10)
+Added Weighted Obstacle at (7, 11)
+Removed Regular Obstacle at (10, 10)
+Agent 1: Path found. Path Length: 11 | Visited Nodes: 190 | Runtime: 10368.30 μs
+Agent 2: Path found. Path Length: 11 | Visited Nodes: 109 | Runtime: 6004.70 μs
+Added Weighted Obstacle at (3, 7)
+Added Regular Obstacle at (13, 12)
+Added Regular Obstacle at (10, 2)
+Removed Weighted Obstacle at (0, 6)
+Agent 1: Path found. Path Length: 11 | Visited Nodes: 198 | Runtime: 8635.00 μs
+Agent 2: Path found. Path Length: 11 | Visited Nodes: 130 | Runtime: 6434.90 μs
+Removed Regular Obstacle at (4, 11)
+Removed Regular Obstacle at (9, 3)
+Agent 1: Path found. Path Length: 11 | Visited Nodes: 141 | Runtime: 7074.90 μs
+Agent 2: Path found. Path Length: 8 | Visited Nodes: 131 | Runtime: 6693.70 μs
+Collision avoidance is enabled for the D* Lite algorithm.
+Added Regular Obstacle at (11, 8)
+Added Regular Obstacle at (9, 2)
+Removed Regular Obstacle at (7, 9)
+Agent 1: Path found. Path Length: 21 | Visited Nodes: 169 | Runtime: 17753.90 μs
+Agent 2: Path found. Path Length: 21 | Visited Nodes: 161 | Runtime: 17071.60 μs
+Added Regular Obstacle at (14, 12)
+Added Weighted Obstacle at (9, 12)
+Added Regular Obstacle at (0, 0)
+Removed Regular Obstacle at (11, 8)
+Removed Weighted Obstacle at (2, 6)
+Removed Regular Obstacle at (5, 11)
+Agent 1: Path found. Path Length: 19 | Visited Nodes: 148 | Runtime: 18531.80 μs
+Agent 2: Path found. Path Length: 21 | Visited Nodes: 166 | Runtime: 16170.40 μs
+Added Regular Obstacle at (12, 7)
+Removed Regular Obstacle at (10, 4)
+Removed Weighted Obstacle at (6, 5)
+Agent 1: Path found. Path Length: 19 | Visited Nodes: 133 | Runtime: 13626.80 μs
+Agent 2: Path found. Path Length: 21 | Visited Nodes: 164 | Runtime: 15869.30 μs
+Added Weighted Obstacle at (4, 7)
+Added Regular Obstacle at (13, 6)
+Removed Weighted Obstacle at (12, 14)
+Removed Weighted Obstacle at (12, 5)
+Removed Weighted Obstacle at (7, 12)
+Agent 1: Path found. Path Length: 19 | Visited Nodes: 145 | Runtime: 20137.60 μs
+Agent 2: Path found. Path Length: 19 | Visited Nodes: 144 | Runtime: 14528.80 μs
+Added Regular Obstacle at (14, 10)
+Added Regular Obstacle at (6, 13)
+Removed Regular Obstacle at (5, 6)
+Agent 1: Path found. Path Length: 19 | Visited Nodes: 137 | Runtime: 15805.20 μs
+Agent 2: Path found. Path Length: 19 | Visited Nodes: 141 | Runtime: 14401.30 μs
+Added Regular Obstacle at (5, 5)
+Removed Weighted Obstacle at (3, 7)
+Removed Regular Obstacle at (5, 2)
+Removed Weighted Obstacle at (11, 0)
+Agent 1: Path found. Path Length: 19 | Visited Nodes: 121 | Runtime: 22728.90 μs
+Agent 2: No path found. Visited Nodes: 101 | Runtime: 9864.50 μs
+Added Regular Obstacle at (2, 10)
+Agent 1: Path found. Path Length: 19 | Visited Nodes: 123 | Runtime: 22550.40 μs
+Agent 2: No path found. Visited Nodes: 104 | Runtime: 11984.70 μs
+Added Weighted Obstacle at (13, 4)
+Added Weighted Obstacle at (8, 14)
+Removed Weighted Obstacle at (7, 10)
+Removed Weighted Obstacle at (7, 8)
+Removed Regular Obstacle at (0, 13)
+Agent 1: Path found. Path Length: 19 | Visited Nodes: 147 | Runtime: 14523.40 μs
+Agent 2: No path found. Visited Nodes: 107 | Runtime: 11459.50 μs
+Added Regular Obstacle at (7, 12)
+Added Regular Obstacle at (8, 11)
+Removed Regular Obstacle at (10, 13)
+Removed Regular Obstacle at (8, 11)
+Agent 1: Path found. Path Length: 19 | Visited Nodes: 139 | Runtime: 20067.00 μs
+Agent 2: No path found. Visited Nodes: 104 | Runtime: 9097.40 μs
+Added Regular Obstacle at (0, 8)
+Added Regular Obstacle at (10, 8)
+Removed Regular Obstacle at (13, 8)
+Removed Weighted Obstacle at (14, 1)
+Removed Regular Obstacle at (2, 10)
+Agent 1: Path found. Path Length: 19 | Visited Nodes: 135 | Runtime: 25386.40 μs
+Agent 2: No path found. Visited Nodes: 85 | Runtime: 8058.60 μs
+Added Regular Obstacle at (11, 2)
+Added Regular Obstacle at (5, 13)
+Agent 1: Path found. Path Length: 19 | Visited Nodes: 161 | Runtime: 27159.20 μs
+Agent 2: No path found. Visited Nodes: 80 | Runtime: 7034.20 μs
+Added Regular Obstacle at (4, 0)
+Added Regular Obstacle at (12, 5)
+Removed Regular Obstacle at (7, 4)
+Removed Regular Obstacle at (1, 2)
+Agent 1: Path found. Path Length: 19 | Visited Nodes: 113 | Runtime: 22229.80 μs
+Agent 2: Path found. Path Length: 27 | Visited Nodes: 143 | Runtime: 15845.40 μs
+Added Regular Obstacle at (13, 2)
+Added Weighted Obstacle at (12, 0)
+Removed Regular Obstacle at (10, 3)
+Removed Regular Obstacle at (6, 13)
+Agent 1: Path found. Path Length: 19 | Visited Nodes: 143 | Runtime: 28248.50 μs
+Agent 2: No path found. Visited Nodes: 103 | Runtime: 10493.20 μs
+Added Weighted Obstacle at (5, 9)
+Added Regular Obstacle at (7, 7)
+Added Regular Obstacle at (1, 1)
+Removed Regular Obstacle at (5, 13)
+Removed Regular Obstacle at (0, 2)
+Agent 1: Path found. Path Length: 19 | Visited Nodes: 139 | Runtime: 18357.00 μs
+Agent 2: No path found. Visited Nodes: 117 | Runtime: 11221.70 μs
+Added Regular Obstacle at (11, 10)
+Added Regular Obstacle at (10, 7)
+Removed Weighted Obstacle at (8, 10)
+Agent 1: Path found. Path Length: 19 | Visited Nodes: 138 | Runtime: 13682.50 μs
+Agent 2: No path found. Visited Nodes: 105 | Runtime: 9633.80 μs
+Added Regular Obstacle at (3, 0)
+Removed Weighted Obstacle at (12, 12)
+Agent 1: Path found. Path Length: 19 | Visited Nodes: 131 | Runtime: 20911.20 μs
+Agent 2: Path found. Path Length: 25 | Visited Nodes: 139 | Runtime: 13491.00 μs
+Removed Regular Obstacle at (1, 9)
+Removed Regular Obstacle at (1, 1)
+Removed Weighted Obstacle at (11, 4)
+Agent 1: Path found. Path Length: 23 | Visited Nodes: 169 | Runtime: 24714.90 μs
+Agent 2: No path found. Visited Nodes: 107 | Runtime: 9865.10 μs
+Added Regular Obstacle at (4, 4)
+Added Regular Obstacle at (5, 12)
+Added Regular Obstacle at (4, 3)
+Removed Weighted Obstacle at (5, 9)
+Agent 1: Path found. Path Length: 19 | Visited Nodes: 148 | Runtime: 14260.50 μs
+Agent 2: Path found. Path Length: 23 | Visited Nodes: 119 | Runtime: 10866.30 μs
+Added Regular Obstacle at (1, 0)
+Added Weighted Obstacle at (10, 4)
+Removed Regular Obstacle at (7, 5)
+Removed Regular Obstacle at (14, 10)
+Agent 1: Path found. Path Length: 21 | Visited Nodes: 167 | Runtime: 22199.80 μs
+Agent 2: No path found. Visited Nodes: 121 | Runtime: 18990.90 μs
+Collision avoidance is enabled for the RRT algorithm.
+Added Regular Obstacle at (0, 12)
+Added Weighted Obstacle at (4, 5)
+Removed Regular Obstacle at (6, 8)
+Removed Weighted Obstacle at (10, 4)
+Agent 1: Path found. Path Length: 19 | Visited Nodes: 73 | Runtime: 24128.30 μs
+Agent 2: Path found. Path Length: 25 | Visited Nodes: 58 | Runtime: 38919.20 μs
+Removed Regular Obstacle at (3, 0)
+Removed Weighted Obstacle at (4, 5)
+Agent 1: Path found. Path Length: 21 | Visited Nodes: 80 | Runtime: 23203.90 μs
+Agent 2: Path found. Path Length: 27 | Visited Nodes: 109 | Runtime: 41996.70 μs
+Added Weighted Obstacle at (7, 13)
+Added Weighted Obstacle at (0, 14)
+Removed Regular Obstacle at (12, 5)
+Removed Regular Obstacle at (13, 2)
+Removed Weighted Obstacle at (8, 9)
+Agent 1: Path found. Path Length: 20 | Visited Nodes: 86 | Runtime: 14559.10 μs
+Agent 2: Path found. Path Length: 26 | Visited Nodes: 127 | Runtime: 72874.10 μs
+Added Weighted Obstacle at (2, 9)
+Added Regular Obstacle at (11, 1)
+Added Regular Obstacle at (6, 6)
+Removed Regular Obstacle at (4, 4)
+Removed Regular Obstacle at (4, 3)
+Agent 1: Path found. Path Length: 18 | Visited Nodes: 95 | Runtime: 24273.20 μs
+Agent 2: Path found. Path Length: 25 | Visited Nodes: 96 | Runtime: 73012.30 μs
+Added Weighted Obstacle at (2, 7)
+Added Weighted Obstacle at (3, 4)
+Added Regular Obstacle at (8, 12)
+Removed Weighted Obstacle at (14, 3)
+Agent 1: Path found. Path Length: 17 | Visited Nodes: 49 | Runtime: 9399.40 μs
+Agent 2: Path found. Path Length: 28 | Visited Nodes: 83 | Runtime: 23058.60 μs
+Added Weighted Obstacle at (2, 5)
+Removed Regular Obstacle at (10, 7)
+Removed Regular Obstacle at (11, 2)
+Agent 1: Path found. Path Length: 17 | Visited Nodes: 53 | Runtime: 8709.10 μs
+Agent 2: Path found. Path Length: 18 | Visited Nodes: 47 | Runtime: 5961.30 μs
+Added Weighted Obstacle at (9, 9)
+Added Weighted Obstacle at (9, 8)
+Removed Regular Obstacle at (6, 11)
+Agent 1: Path found. Path Length: 21 | Visited Nodes: 96 | Runtime: 14627.60 μs
+Agent 2: Path found. Path Length: 17 | Visited Nodes: 41 | Runtime: 6226.90 μs
+Added Regular Obstacle at (3, 5)
+Added Regular Obstacle at (12, 14)
+Removed Weighted Obstacle at (2, 9)
+Removed Weighted Obstacle at (2, 7)
+Agent 1: Path found. Path Length: 20 | Visited Nodes: 39 | Runtime: 13707.20 μs
+Agent 2: Path found. Path Length: 16 | Visited Nodes: 66 | Runtime: 9014.80 μs
+Added Regular Obstacle at (11, 0)
+Added Regular Obstacle at (7, 10)
+Added Weighted Obstacle at (0, 11)
+Removed Weighted Obstacle at (0, 11)
+Removed Regular Obstacle at (13, 6)
+Removed Regular Obstacle at (14, 12)
+Agent 1: Path found. Path Length: 20 | Visited Nodes: 44 | Runtime: 12716.20 μs
+Agent 2: Path found. Path Length: 19 | Visited Nodes: 45 | Runtime: 7854.10 μs
+Switched to Uninformed Search algorithms.
+Collision avoidance is enabled for the BFS algorithm.
+Added Weighted Obstacle at (11, 5)
+Removed Regular Obstacle at (4, 0)
+Removed Regular Obstacle at (6, 10)
+Removed Regular Obstacle at (11, 14)
+Agent 1: Path found. Path Length: 21 | Visited Nodes: 130 | Runtime: 259.20 μs
+Agent 2: Path found. Path Length: 19 | Visited Nodes: 151 | Runtime: 246.50 μs
+Added Weighted Obstacle at (5, 10)
+Agent 1: Path found. Path Length: 21 | Visited Nodes: 155 | Runtime: 416.70 μs
+Agent 2: Path found. Path Length: 19 | Visited Nodes: 171 | Runtime: 254.90 μs
+Added Weighted Obstacle at (5, 11)
+Removed Regular Obstacle at (10, 2)
+Removed Regular Obstacle at (8, 12)
+Agent 1: Path found. Path Length: 21 | Visited Nodes: 157 | Runtime: 580.30 μs
+Agent 2: Path found. Path Length: 19 | Visited Nodes: 174 | Runtime: 616.40 μs
+Added Weighted Obstacle at (12, 10)
+Added Regular Obstacle at (10, 4)
+Removed Weighted Obstacle at (9, 12)
+Agent 1: Path found. Path Length: 19 | Visited Nodes: 174 | Runtime: 780.80 μs
+Agent 2: Path found. Path Length: 19 | Visited Nodes: 166 | Runtime: 624.30 μs
+Added Weighted Obstacle at (11, 14)
+Removed Regular Obstacle at (9, 2)
+Agent 1: Path found. Path Length: 19 | Visited Nodes: 175 | Runtime: 782.50 μs
+Agent 2: Path found. Path Length: 27 | Visited Nodes: 98 | Runtime: 398.90 μs
+Added Weighted Obstacle at (13, 6)
+Removed Regular Obstacle at (12, 14)
+Removed Regular Obstacle at (10, 8)
+Removed Regular Obstacle at (1, 0)
+Agent 1: Path found. Path Length: 19 | Visited Nodes: 176 | Runtime: 600.80 μs
+Agent 2: Path found. Path Length: 27 | Visited Nodes: 100 | Runtime: 316.00 μs
+Added Weighted Obstacle at (7, 1)
+Added Weighted Obstacle at (7, 4)
+Agent 1: Path found. Path Length: 19 | Visited Nodes: 177 | Runtime: 666.30 μs
+Agent 2: Path found. Path Length: 27 | Visited Nodes: 100 | Runtime: 344.50 μs
+Added Weighted Obstacle at (12, 1)
+Removed Regular Obstacle at (5, 12)
+Removed Regular Obstacle at (12, 7)
+Agent 1: Path found. Path Length: 19 | Visited Nodes: 179 | Runtime: 327.70 μs
+Agent 2: Path found. Path Length: 27 | Visited Nodes: 101 | Runtime: 168.10 μs
+Added Weighted Obstacle at (1, 6)
+Added Regular Obstacle at (8, 12)
+Removed Regular Obstacle at (11, 10)
+Agent 1: Path found. Path Length: 19 | Visited Nodes: 179 | Runtime: 377.50 μs
+Agent 2: Path found. Path Length: 27 | Visited Nodes: 103 | Runtime: 219.20 μs
+Added Regular Obstacle at (10, 5)
+Added Regular Obstacle at (10, 6)
+Added Weighted Obstacle at (0, 9)
+Removed Weighted Obstacle at (12, 10)
+Removed Regular Obstacle at (3, 5)
+Removed Weighted Obstacle at (7, 4)
+Agent 1: Path found. Path Length: 21 | Visited Nodes: 170 | Runtime: 628.40 μs
+Agent 2: Path found. Path Length: 27 | Visited Nodes: 170 | Runtime: 538.60 μs
+Added Regular Obstacle at (14, 12)
+Added Weighted Obstacle at (11, 10)
+Removed Weighted Obstacle at (11, 5)
+Removed Weighted Obstacle at (1, 6)
+Agent 1: Path found. Path Length: 21 | Visited Nodes: 170 | Runtime: 278.00 μs
+Agent 2: Path found. Path Length: 29 | Visited Nodes: 116 | Runtime: 185.20 μs
+Added Weighted Obstacle at (13, 11)
+Removed Weighted Obstacle at (7, 11)
+Agent 1: Path found. Path Length: 21 | Visited Nodes: 173 | Runtime: 674.30 μs
+Agent 2: Path found. Path Length: 27 | Visited Nodes: 115 | Runtime: 394.40 μs
+Added Regular Obstacle at (2, 13)
+Removed Regular Obstacle at (10, 5)
+Removed Weighted Obstacle at (5, 11)
+Agent 1: Path found. Path Length: 19 | Visited Nodes: 167 | Runtime: 284.50 μs
+Agent 2: Path found. Path Length: 25 | Visited Nodes: 119 | Runtime: 198.60 μs
+Added Weighted Obstacle at (7, 14)
+Added Weighted Obstacle at (1, 0)
+Removed Regular Obstacle at (14, 12)
+Removed Weighted Obstacle at (13, 6)
+Removed Regular Obstacle at (8, 6)
+Agent 1: Path found. Path Length: 37 | Visited Nodes: 37 | Runtime: 168.70 μs
+Agent 2: No path found. Visited Nodes: 72 | Runtime: 262.70 μs
+Added Weighted Obstacle at (1, 3)
+Added Regular Obstacle at (9, 0)
+Added Weighted Obstacle at (14, 0)
+Removed Weighted Obstacle at (14, 0)
+Removed Weighted Obstacle at (9, 6)
+Removed Regular Obstacle at (8, 12)
+Agent 1: Path found. Path Length: 35 | Visited Nodes: 104 | Runtime: 197.20 μs
+Agent 2: No path found. Visited Nodes: 73 | Runtime: 107.70 μs
+Added Regular Obstacle at (13, 3)
+Added Regular Obstacle at (8, 9)
+Agent 1: Path found. Path Length: 51 | Visited Nodes: 104 | Runtime: 454.00 μs
+Agent 2: No path found. Visited Nodes: 52 | Runtime: 187.40 μs
+Added Weighted Obstacle at (10, 14)
+Added Regular Obstacle at (11, 3)
+Removed Regular Obstacle at (10, 6)
+Removed Weighted Obstacle at (3, 1)
+Agent 1: Path found. Path Length: 33 | Visited Nodes: 33 | Runtime: 81.30 μs
+Agent 2: No path found. Visited Nodes: 67 | Runtime: 126.80 μs
+Added Weighted Obstacle at (2, 12)
+Added Weighted Obstacle at (8, 4)
+Removed Weighted Obstacle at (9, 11)
+Removed Weighted Obstacle at (9, 8)
+Removed Weighted Obstacle at (3, 10)
+Agent 1: Path found. Path Length: 43 | Visited Nodes: 107 | Runtime: 205.90 μs
+Agent 2: No path found. Visited Nodes: 53 | Runtime: 78.40 μs
+Added Weighted Obstacle at (3, 11)
+Agent 1: Path found. Path Length: 43 | Visited Nodes: 106 | Runtime: 268.30 μs
+Agent 2: Path found. Path Length: 51 | Visited Nodes: 121 | Runtime: 285.60 μs
+Added Weighted Obstacle at (9, 5)
+Added Weighted Obstacle at (2, 7)
+Removed Regular Obstacle at (13, 12)
+Agent 1: Path found. Path Length: 43 | Visited Nodes: 91 | Runtime: 168.10 μs
+Agent 2: Path found. Path Length: 49 | Visited Nodes: 127 | Runtime: 210.30 μs
+Added Regular Obstacle at (11, 11)
+Added Regular Obstacle at (1, 7)
+Removed Weighted Obstacle at (4, 7)
+Removed Regular Obstacle at (1, 7)
+Agent 1: Path found. Path Length: 41 | Visited Nodes: 48 | Runtime: 202.40 μs
+Agent 2: Path found. Path Length: 45 | Visited Nodes: 69 | Runtime: 252.60 μs
+Added Weighted Obstacle at (14, 8)
+Removed Regular Obstacle at (7, 7)
+Agent 1: Path found. Path Length: 31 | Visited Nodes: 31 | Runtime: 67.10 μs
+Agent 2: Path found. Path Length: 49 | Visited Nodes: 121 | Runtime: 201.00 μs
+Added Regular Obstacle at (11, 12)
+Removed Weighted Obstacle at (2, 7)
+Removed Regular Obstacle at (9, 0)
+Removed Weighted Obstacle at (2, 5)
+Agent 1: Path found. Path Length: 33 | Visited Nodes: 95 | Runtime: 195.40 μs
+Agent 2: Path found. Path Length: 77 | Visited Nodes: 95 | Runtime: 169.00 μs
+Added Regular Obstacle at (8, 8)
+Agent 1: Path found. Path Length: 33 | Visited Nodes: 95 | Runtime: 273.70 μs
+Agent 2: Path found. Path Length: 73 | Visited Nodes: 81 | Runtime: 441.60 μs
+Agent 1: Path found. Path Length: 45 | Visited Nodes: 47 | Runtime: 252.30 μs
+Agent 2: Path found. Path Length: 73 | Visited Nodes: 100 | Runtime: 406.30 μs
+Added Regular Obstacle at (1, 6)
+Added Weighted Obstacle at (9, 0)
+Removed Regular Obstacle at (11, 1)
+Removed Weighted Obstacle at (3, 4)
+Agent 1: Path found. Path Length: 25 | Visited Nodes: 158 | Runtime: 1439.60 μs
+Agent 2: Path found. Path Length: 19 | Visited Nodes: 155 | Runtime: 1511.90 μs
+Added Regular Obstacle at (9, 1)
+Added Weighted Obstacle at (4, 12)
+Removed Regular Obstacle at (7, 12)
+Removed Weighted Obstacle at (10, 14)
+Agent 1: Path found. Path Length: 23 | Visited Nodes: 139 | Runtime: 759.50 μs
+Agent 2: Path found. Path Length: 19 | Visited Nodes: 148 | Runtime: 965.40 μs
+Added Weighted Obstacle at (8, 0)
+Added Regular Obstacle at (2, 5)
+Added Regular Obstacle at (0, 3)
+Removed Weighted Obstacle at (9, 5)
+Removed Regular Obstacle at (9, 1)
+Agent 1: Path found. Path Length: 21 | Visited Nodes: 141 | Runtime: 863.60 μs
+Agent 2: Path found. Path Length: 19 | Visited Nodes: 161 | Runtime: 959.90 μs
+Removed Weighted Obstacle at (13, 11)
+Removed Weighted Obstacle at (8, 4)
+Agent 1: Path found. Path Length: 21 | Visited Nodes: 151 | Runtime: 1730.80 μs
+Agent 2: Path found. Path Length: 19 | Visited Nodes: 162 | Runtime: 1748.20 μs
+Agent 1: Path found. Path Length: 19 | Visited Nodes: 150 | Runtime: 1408.00 μs
+Agent 2: Path found. Path Length: 19 | Visited Nodes: 162 | Runtime: 1516.60 μs
+Added Weighted Obstacle at (11, 5)
+Agent 1: Path found. Path Length: 19 | Visited Nodes: 158 | Runtime: 1148.50 μs
+Agent 2: Path found. Path Length: 19 | Visited Nodes: 159 | Runtime: 1260.10 μs
+Added Weighted Obstacle at (0, 2)
+Added Weighted Obstacle at (7, 6)
+Removed Regular Obstacle at (2, 13)
+Agent 1: Path found. Path Length: 19 | Visited Nodes: 165 | Runtime: 1781.00 μs
+Agent 2: Path found. Path Length: 27 | Visited Nodes: 119 | Runtime: 1146.60 μs
+Added Regular Obstacle at (9, 13)
+Added Regular Obstacle at (4, 8)
+Added Weighted Obstacle at (12, 14)
+Removed Regular Obstacle at (4, 8)
+Removed Regular Obstacle at (13, 3)
+Agent 1: Path found. Path Length: 19 | Visited Nodes: 158 | Runtime: 1694.40 μs
+Agent 2: Path found. Path Length: 27 | Visited Nodes: 133 | Runtime: 1057.90 μs
+Added Regular Obstacle at (14, 4)
+Removed Weighted Obstacle at (12, 1)
+Agent 1: Path found. Path Length: 19 | Visited Nodes: 163 | Runtime: 953.60 μs
+Agent 2: Path found. Path Length: 27 | Visited Nodes: 132 | Runtime: 498.90 μs
+Added Weighted Obstacle at (3, 9)
+Removed Regular Obstacle at (0, 0)
+Agent 1: Path found. Path Length: 19 | Visited Nodes: 163 | Runtime: 2103.70 μs
+Agent 2: Path found. Path Length: 27 | Visited Nodes: 151 | Runtime: 1583.20 μs
+Added Weighted Obstacle at (11, 9)
+Removed Weighted Obstacle at (12, 14)
+Agent 1: Path found. Path Length: 19 | Visited Nodes: 162 | Runtime: 1869.70 μs
+Agent 2: Path found. Path Length: 27 | Visited Nodes: 157 | Runtime: 1473.30 μs
+Removed Weighted Obstacle at (8, 2)
+Removed Regular Obstacle at (11, 0)
+Removed Regular Obstacle at (11, 11)
+Agent 1: Path found. Path Length: 19 | Visited Nodes: 157 | Runtime: 1419.40 μs
+Agent 2: Path found. Path Length: 25 | Visited Nodes: 171 | Runtime: 1141.40 μs
+Added Weighted Obstacle at (3, 3)
+Added Weighted Obstacle at (4, 11)
+Removed Weighted Obstacle at (3, 11)
+Agent 1: Path found. Path Length: 21 | Visited Nodes: 153 | Runtime: 751.90 μs
+Agent 2: Path found. Path Length: 25 | Visited Nodes: 147 | Runtime: 592.40 μs
+Simulation stopped.
